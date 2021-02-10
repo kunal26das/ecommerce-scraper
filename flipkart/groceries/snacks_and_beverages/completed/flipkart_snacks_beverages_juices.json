@@ -1,0 +1,580 @@
+{
+    "records": [
+        {
+            "id": 643,
+            "brand": "7UP",
+            "title": "7UP Nimbooz",
+            "measurement": "350 ml",
+            "price": 20,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j5y7gcw0-1/aerated-drink/j/e/c/350-nimbooz-7up-original-imaewj8ccvq6tz6g.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Maaza",
+            "title": "Maaza Mango",
+            "measurement": "1.2 L",
+            "price": 57,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k4irzbk0/drinks-juice/a/5/4/1-2-mango-plastic-bottle-maaza-original-imafkh8tzsqywcjh.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Minute Maid",
+            "title": "Minute Maid Pulpy Orange",
+            "measurement": "1 L",
+            "price": 60,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jyj0how0/drinks-juice/c/k/h/1-pulpy-orange-plastic-bottle-minute-maid-original-imafgqqryzt7pbvs.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Minute Maid",
+            "title": "Minute Maid Mixed Fruit Juice",
+            "measurement": "1 L",
+            "price": 70,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7m8brk0/drinks-juice/p/x/a/1-mixed-fruit-juice-tetrapack-minute-maid-original-imafptfzffg63ayq.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Minute Maid",
+            "title": "Minute Maid Guava Juice",
+            "measurement": "1 L",
+            "price": 70,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k0mqtu80/drinks-juice/a/r/z/1-guava-juice-tetrapack-minute-maid-original-imafkdxbvgcr5s3q.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Minute Maid",
+            "title": "Minute Maid Orange Juice",
+            "measurement": "1 L",
+            "price": 73,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7m8brk0/drinks-juice/9/q/z/1-orange-juice-tetrapack-minute-maid-original-imafptfnhegnhuzz.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Mogu Mogu",
+            "title": "Mogu Mogu Lychee Juice with Nata De Coco",
+            "measurement": "300 ml",
+            "price": 51,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k933ma80/drinks-juice/z/n/5/300-lychee-juice-with-nata-de-coco-plastic-bottle-mogu-mogu-original-imafqym5myzxnhyk.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Mogu Mogu",
+            "title": "Mogu Mogu Grape Juice with Nata De Coco",
+            "measurement": "300 ml",
+            "price": 51,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k933ma80/drinks-juice/j/p/u/300-grape-juice-with-nata-de-coco-plastic-bottle-mogu-mogu-original-imafqym5jnmggzba.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Mogu Mogu",
+            "title": "Mogu Mogu Strawberry Juice with Nata De Coco",
+            "measurement": "300 ml",
+            "price": 51,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k933ma80/drinks-juice/c/4/f/300-strawberry-juice-with-nata-de-coco-plastic-bottle-mogu-mogu-original-imafqym5tptwu6hd.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Nimbu Pani",
+            "measurement": "250 ml",
+            "price": 31,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka2tmkw0/drinks-juice/m/5/p/250-nimbu-pani-pouch-paper-boat-original-imafrq8fxdqcgag3.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Aamras",
+            "measurement": "1 L",
+            "price": 102,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/b/n/j/1-juice-aamras-tetrapack-paper-boat-original-imafqfyjpvhyvjtt.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Chilli Guava",
+            "measurement": "200 ml",
+            "price": 25,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/n/s/f/200-juice-chilli-guava-tetrapack-paper-boat-original-imafqfyjhszxyzmr.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Aam Panna",
+            "measurement": "6x0.2 L",
+            "price": 144,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/a/u/g/1-2-juice-aam-panna-tetrapack-paper-boat-original-imafqfyjtgz8ccyz.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Coconut Water",
+            "measurement": "6x0.2 L",
+            "price": 180,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/n/h/k/1-2-coconut-water-plastic-bottle-paper-boat-original-imafqfyjvsfwrzxy.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Jaljeera",
+            "measurement": "6x0.2 L",
+            "price": 144,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/z/v/j/1-2-jaljeera-tetrapack-paper-boat-original-imafqfyj5rnjkn8y.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Santra",
+            "measurement": "6x0.2 L",
+            "price": 162,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/t/t/p/1-2-juice-santra-tetrapack-paper-boat-original-imafqfyj7kmhg2yh.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Apple Juice",
+            "measurement": "1 L",
+            "price": 88,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/t/v/e/1-apple-juice-tetrapack-paper-boat-original-imafqfyjm7hjpeqb.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Guava",
+            "measurement": "1 L",
+            "price": 93,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/8/h/k/1-juice-guava-tetrapack-paper-boat-original-imafqfyjmqytmy7g.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Lychee Ras",
+            "measurement": "200 ml",
+            "price": 28,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/d/5/3/200-lychee-ras-tetrapack-paper-boat-original-imafqfyjzcudbzyv.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Jamun Kalakhatta",
+            "measurement": "6x0.2 L",
+            "price": 162,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jiovssw0/drinks-juice/s/e/g/1500-jamun-tetrapack-paper-boat-original-imaf6fw3gxawp24g.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Anar",
+            "measurement": "1 L",
+            "price": 133,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/q/5/j/1-juice-anar-tetrapack-paper-boat-original-imafqfyjxev6ccmd.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Alphonso Aam",
+            "measurement": "1 L",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/c/y/s/1-alphonso-aam-tetrapack-paper-boat-original-imafqfyjr3dtzh6n.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice- Mixed Fruit",
+            "measurement": "1 L",
+            "price": 104,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/u/e/5/1-juice-mixed-fruit-tetrapack-paper-boat-original-imafqf4vphbcsffq.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Orange",
+            "measurement": "1 L",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/2/k/t/1-juice-orange-tetrapack-paper-boat-original-imafqfyjryjykgbm.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Lychee Ras",
+            "measurement": "6x0.2 L",
+            "price": 162,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/x/4/x/1-2-juice-lychee-ras-tetrapack-paper-boat-original-imafqfyjywvqxqaz.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Patanjali",
+            "title": "Patanjali Amla Juice",
+            "measurement": "1 L",
+            "price": 110,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k91o6fk0/drinks-juice/y/z/w/500-amla-juice-plastic-bottle-patanjali-original-imafqxhbakgtunjg.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Patanjali",
+            "title": "Patanjali Karela Amla Juice",
+            "measurement": "500 ml",
+            "price": 75,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ji4vmvk0-1/drinks-juice/v/h/w/500-karela-amla-juice-carton-patanjali-original-imaf6y9qvjm8tfkq.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Coconut Water",
+            "measurement": "Buy 4 or more units save 31%",
+            "price": 54,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k3q76a80/drinks-juice/p/g/3/200-coconut-water-plastic-bottle-raw-pressery-original-imafmsg4ced5gdvh.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Trim",
+            "measurement": "250 ml",
+            "price": 120,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jlfh6kw0/drinks-juice/h/f/d/250-trim-plastic-bottle-raw-pressery-original-imaf8kkhbwys28yq.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Valencia Orange",
+            "measurement": "1 L",
+            "price": 270,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jlfh6kw0/drinks-juice/j/q/9/1-valencia-orange-plastic-bottle-raw-pressery-original-imaf8kkhwnnfghfs.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Lean",
+            "measurement": "250 ml",
+            "price": 120,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jvzkb680/drinks-juice/x/e/j/250-lean-glass-bottle-raw-pressery-original-imafgrmx3ydgmzed.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Life",
+            "measurement": "250 ml",
+            "price": 120,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jlb6v0w0/drinks-juice/2/k/h/250-life-plastic-bottle-raw-pressery-original-imaf8h9mz64vsg9g.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Sugarcane",
+            "measurement": "1 L",
+            "price": 140,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jlfh6kw0/drinks-juice/h/z/f/1-sugarcane-plastic-bottle-raw-pressery-original-imaf8kkh6agampjh.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Flush",
+            "measurement": "250 ml",
+            "price": 120,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jvzkb680/drinks-juice/g/c/m/250-flush-glass-bottle-raw-pressery-original-imafgrmx3kzer6sv.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Pomegranate",
+            "measurement": "250 ml",
+            "price": 120,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jlfh6kw0/drinks-juice/y/c/h/250-pomegranate-plastic-bottle-raw-pressery-original-imaf8kkh8gze2wqv.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Mango Plus Sugarcane",
+            "measurement": "200 ml",
+            "price": 60,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k9x3v680/drinks-juice/h/k/q/200-mango-100-natural-cold-pressed-juice-plastic-bottle-raw-original-imafrht4zt3kdhh8.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice Guava",
+            "measurement": "Buy 2 or more units save \u20b95",
+            "price": 75,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j63x7rk0/drinks-juice/b/s/c/1-fruit-power-guava-tetrapack-real-original-imaewnbdvpeqafne.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice Mixed",
+            "measurement": "Buy 2 or more units save \u20b95",
+            "price": 84,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j65cnm80/drinks-juice/y/8/h/1-fruit-power-mixed-fruit-tetrapack-real-original-imaewzthu8hgnnad.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Litchi",
+            "measurement": "Buy 2 or more units save \u20b95",
+            "price": 78,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j63x7rk0/drinks-juice/h/t/b/1-fruit-power-litchi-tetrapack-real-original-imaewn4jmazzjazv.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Apple",
+            "measurement": "Buy 2 or more units save \u20b95",
+            "price": 80,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j8q89zk0/drinks-juice/g/h/g/1-fruit-power-apple-tetrapack-real-original-imaeyz9atzfgd3zd.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Pomegranate",
+            "measurement": "Buy 2 or more units save \u20b95",
+            "price": 94,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j4ohd3k0/drinks-juice/h/g/f/1-fruit-power-pomegranate-tetrapack-real-original-imaevg74jtxrz4qp.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Mango",
+            "measurement": "Buy 2 or more units save \u20b95",
+            "price": 85,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j8ndea80/drinks-juice/y/x/v/1-fruit-juice-mango-tetrapack-real-original-imaeymush4qbcgre.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Orange",
+            "measurement": "Buy 2 or more units save \u20b95",
+            "price": 79,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jgl5gnk0/drinks-juice/m/h/d/1-fruit-juice-orange-tetrapack-real-original-imaf4spwncyhpz7e.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Activ 100% Mixed Fruit Juice",
+            "measurement": "1 L",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jvtujrk0/drinks-juice/n/f/4/1-activ-100-mixed-fruit-juice-tetrapack-real-original-imafgggrp8ezf4g4.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Activ 100% Tender Coconut Water",
+            "measurement": "6x200 ml",
+            "price": 192,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jvif0y80/drinks-juice/c/v/6/1200-real-activ-coconut-water-200ml-pack-of-6-bulk-pack-activ-original-imafgedmdhzpjjmm.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Cranberry",
+            "measurement": "1 L",
+            "price": 108,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j65cnm80/drinks-juice/p/f/t/1-fruit-power-cranberry-tetrapack-real-original-imaewzudhezch8uu.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Activ 100% Apple Juice",
+            "measurement": "1 L",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jvtujrk0/drinks-juice/a/k/e/1-activ-100-apple-juice-tetrapack-real-original-imafgggrgajmgrhw.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice Grape",
+            "measurement": "1 L",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j8ndea80/drinks-juice/j/f/d/1-fruit-juice-grape-tetrapack-real-original-imaeymu5magd28kn.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Mosambi",
+            "measurement": "1 L",
+            "price": 108,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jggv53k0/drinks-juice/s/p/y/1-fruit-juice-mosambi-tetrapack-real-original-imaf4pc9v4zuaurj.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Alphonso Mango Nectar",
+            "measurement": "1 L",
+            "price": 107,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jievpu80/drinks-juice/m/y/4/1-alphonso-mango-tetrapack-real-original-imaf67smxb3g7z39.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Masala Pomegranate",
+            "measurement": "1 L",
+            "price": 108,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jievpu80/drinks-juice/5/6/p/1-masala-pomegranate-tetrapack-real-original-imaf67smhxehfetz.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Masala Aam Panna",
+            "measurement": "1 L",
+            "price": 98,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jyafukw0/drinks-juice/v/6/m/1-masala-aampanna-tetrapack-real-fruit-power-original-imafgjmjtu3tc8gk.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice Apple",
+            "measurement": "Buy 6 or more units save \u20b915",
+            "price": 20,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k6ci8i80/drinks-juice/u/g/t/200-fruit-juice-apple-tetrapack-real-original-imafztu5ywypcty2.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Real",
+            "title": "Real Fruit Juice - Grape",
+            "measurement": "Buy 6 or more units save \u20b915",
+            "price": 20,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j9eirgw0/drinks-juice/t/y/3/200-fruit-juice-grape-tetrapack-real-original-imaez6vhmxqgmtaf.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Storia",
+            "title": "Storia Pomogranate Masala Drinks",
+            "measurement": "180 ml",
+            "price": 25,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/b/7/b/180-pomogranate-masala-drinks-glass-bottle-storia-original-imafrsm3fhuvjyyk.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Storia",
+            "title": "Storia Guava Chili Drinks",
+            "measurement": "180 ml",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/s/t/t/180-guava-chili-drinks-glass-bottle-storia-original-imafrseeyzu2dzus.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Storia",
+            "title": "Storia Pineapple Masala Drinks",
+            "measurement": "180 ml",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/4/g/p/180-pineapple-masala-drinks-glass-bottle-storia-original-imafrsm3chhfdsz2.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Storia",
+            "title": "Storia Green Mango Masala Drinks",
+            "measurement": "180 ml",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/z/r/f/180-green-mango-masala-drinks-glass-bottle-storia-original-imafrseeq3sy3vny.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Mixed Fruit Delight",
+            "measurement": "1 L",
+            "price": 77,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jsaocy80/drinks-juice/s/b/p/1-mixed-fruit-delight-tetrapack-tropicana-original-imaf3d9qhbsq4paq.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Slice Mango Juice",
+            "measurement": "1.2 L",
+            "price": 64,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j6nxdow0/drinks-juice/z/p/8/1200-slice-mango-juice-tetrapack-tropicana-original-imaex34z5naqqjx6.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Guava Delight",
+            "measurement": "1 L",
+            "price": 75,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k84t1u80/drinks-juice/z/g/z/1-guava-delight-plastic-bottle-tropicana-original-imafq7nzszbfynjt.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana 100% Orange Juice",
+            "measurement": "1 L",
+            "price": 103,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/b/2/x/1-100-orange-juice-tetrapack-tropicana-original-imaf3d9qmgy6npvz.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Orange Delight Fruit Beverage",
+            "measurement": "1 L",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/d/p/g/1-orange-delight-fruit-beverage-tetrapack-tropicana-original-imaf3d9qrzpmxauh.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Apple Delight Fruit Beverage",
+            "measurement": "1 L",
+            "price": 75,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k84t1u80/drinks-juice/y/d/g/1-apple-delight-fruit-beverage-plastic-bottle-tropicana-original-imafq7nztdsswkjb.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Cranberry Delight Fruit Beverage",
+            "measurement": "1 L",
+            "price": 84,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/2/t/f/1-cranberry-delight-fruit-beverage-tetrapack-tropicana-original-imaf3d9qyunwry25.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Litchi Delight Fruit Beverage",
+            "measurement": "1 L",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/j/h/r/1-litchi-delight-fruit-beverage-tetrapack-tropicana-original-imaf3d9qhxmhyytm.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana 100% Mixed Fruit Juice",
+            "measurement": "1 L",
+            "price": 121,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/3/5/j/1-100-mixed-fruit-juice-tetrapack-tropicana-original-imaf3d9qq8shrsyb.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Pomegranate Delight Fruit Beverage",
+            "measurement": "1 L",
+            "price": 108,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jsaocy80/drinks-juice/g/s/x/1-pomegranate-delight-fruit-beverage-tetrapack-tropicana-original-imafdwkhap7ca8eb.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana 100% Apple Juice",
+            "measurement": "200 ml",
+            "price": 30,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/5/k/3/200-100-apple-juice-tetrapack-tropicana-original-imaf3d9qheahppfy.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Guava Delight Fruit Beverage",
+            "measurement": "1 L",
+            "price": 77,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/n/f/c/1-guava-delight-fruit-beverage-tetrapack-tropicana-original-imaf3d9qg596axzy.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Mango Delight Fruit Beverage",
+            "measurement": "1 L",
+            "price": 90,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jerf7gw0/drinks-juice/u/d/e/1-mango-delight-fruit-beverage-tetrapack-tropicana-original-imaf3d9qsz6tkmy4.jpeg?q=70"
+        },
+        {
+            "id": 643,
+            "brand": "Tropicana",
+            "title": "Tropicana Pineapple Delight",
+            "measurement": "200 ml",
+            "price": 20,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jaij3bk0/drinks-juice/3/p/f/200-pineapple-delight-tetrapack-tropicana-original-imafy2nzdmyhhz3v.jpeg?q=70"
+        }
+    ]
+}

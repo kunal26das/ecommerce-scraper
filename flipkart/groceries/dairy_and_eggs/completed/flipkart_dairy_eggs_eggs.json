@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "id": 422,
+            "brand": "Ayur",
+            "title": "Ayur Plus Hen White Eggs",
+            "measurement": "6 Units",
+            "price": 74,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jfwuz680/egg/g/h/2/6-na-ayur-original-imaf49hgywfaha6c.jpeg?q=70"
+        },
+        {
+            "id": 422,
+            "brand": "Jaya",
+            "title": "Jaya Fresh Hen White Eggs",
+            "measurement": "30 Units",
+            "price": 175,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jgzfv680/egg/z/m/h/30-fresh-eggs-jaya-original-imaf53xfzxazjzx2.jpeg?q=70"
+        }
+    ]
+}

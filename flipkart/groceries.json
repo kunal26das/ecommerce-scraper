@@ -1,0 +1,95 @@
+{
+    "Grocery" : {
+        "Staples" : {
+            "Dals & Pulses": [
+                "Toor Dal",
+                "Urad Das",
+                "Moong Dal",
+                "Chana Dal",
+                "Other Pulses",
+                "Soya Chunks"
+            ],
+            "Ghee & Oils": [
+                "Blended Oil",
+                "Ghee",
+                "Sunflower Oil",
+                "Rice Bran",
+                "Olive Oil",
+                "Groundnut Oil",
+                "Mustard Oil",
+                "Other Oils"
+            ],
+            "Atta & Flours": [
+                "Wheaet Atta",
+                "Rava & Sooji",
+                "Rice Flour",
+                "Maida",
+                "Besan",
+                "Other Flours",
+                "Grains"
+            ],
+            "Masalas & Spices": {
+
+            },
+            "Rice & Rice Products": {
+
+            },
+            "Dry Fruits, Nuts & Seeds": {
+
+            },
+            "Sugar, Jaggery & Salt": {
+
+            }
+        },
+        "Snacks & Beverages": {
+            "Biscuits": [],
+            "Chips, Namkeen & Snacks": [],
+            "Tea": [],
+            "Coffee": [],
+            "Juices": [],
+            "Health Drink Mix": [],
+            "Soft Drinks": [],
+            "Instant Drink Mixes, Squash & Syrups": []
+        },
+        "Packages Food": {
+            "Noodles & Pasta": [],
+            "Choclates & Sweets": [],
+            "Ketchups & Spreads": [],
+            "Breakfast Cereals": [],
+            "Jams & Honey": [],
+            "Ready to Cook": [],
+            "Pickles & Chutney": [],
+            "Cooking Sauces & Vinegar": [],
+            "Baking": []
+        },
+        "Personal & Baby Care": {
+            "Soaps & Body Wash": [],
+            "Hair Care": [],
+            "Oral Care": [],
+            "Deos, Pefumes & Talc": [],
+            "Creams, Lotions, Skin Care": [],
+            "Kajal & Makeup": [],
+            "Sanitary Needs": [],
+            "Wellness & Common Pharma": [],
+            "Shaving Needs": [],
+            "Diapers & Wipes": [],
+            "Baby Foods": [],
+            "Baby Bath & Skin Care": []
+        },
+        "Household Care": {
+            "Detergents & Laundary": [],
+            "Utensil Cleaners": [],
+            "Floor & Other Cleaners": [],
+            "Repellants & Freshners": [],
+            "Paper & Disposables": [],
+            "Basic Electricals": [],
+            "Pooja Needs": [],
+            "Pet Food": [],
+            "Shoe Care": []
+        },
+        "Dairy & Eggs": {
+            "Dairy": [],
+            "Eggs": []
+        }
+    }
+}

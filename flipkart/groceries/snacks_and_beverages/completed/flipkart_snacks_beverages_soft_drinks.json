@@ -1,0 +1,596 @@
+{
+    "records": [
+        {
+            "id": 1190,
+            "brand": "7UP",
+            "title": "7UP Plastic Bottle",
+            "measurement": "2.25 L, Plastic Bottle",
+            "price": 81,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jesunbk0/aerated-drink/r/2/h/2-25-na-plastic-bottle-7up-original-imaf3em4mdqmxcxz.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "7UP",
+            "title": "7UP Can",
+            "measurement": "250 ml, Can",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jh9fy4w0/aerated-drink/p/5/8/250-na-plastic-bottle-7up-original-imaf5bj3pgsmhqy4.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Coca-Cola",
+            "title": "Coca-Cola Plastic Bottle",
+            "measurement": "2 L, Plastic Bottle",
+            "price": 81,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jws547k0/aerated-drink/u/z/t/2-na-plastic-bottle-coca-cola-original-imafhdygmhjqvxdm.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Coca-Cola",
+            "title": "Coca-Cola Can",
+            "measurement": "300 ml, Can",
+            "price": 40,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jqzitu80/aerated-drink/t/f/k/300-na-can-coca-cola-original-imafcvvqazafyhmy.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Coca-Cola",
+            "title": "Coca-Cola Diet Can",
+            "measurement": "300 ml, Can",
+            "price": 35,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jrz8u4w0/aerated-drink/s/4/z/300-diet-can-coca-cola-original-imafdnbzuz9byf5t.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Enfagrow",
+            "title": "Enfagrow A Plus Nutrition Drink",
+            "measurement": "400 g",
+            "price": 623,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k0e66q80/energy-sport-drink-mix/a/v/c/400-a-plus-enfagrow-original-imafjrfavf2dhvgh.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Enfagrow",
+            "title": "Enfagrow A Plus Nutrition Drink",
+            "measurement": "400 g",
+            "price": 562,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k0e66q80/energy-sport-drink-mix/z/4/m/400-a-plus-enfagrow-original-imafjrf9txgzm7zv.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Enfagrow",
+            "title": "Enfagrow A+ Nutrition Drink",
+            "measurement": "750 g",
+            "price": 1112,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k0e66q80/energy-sport-drink-mix/p/p/h/750-a-enfagrow-original-imafjrfayygfgeap.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Fanta",
+            "title": "Fanta Plastic Bottle",
+            "measurement": "1.75 L, Plastic Bottle",
+            "price": 71,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jqzitu80/aerated-drink/8/g/f/1-75-na-plastic-bottle-fanta-original-imafcvvq26twgdgk.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Fanta",
+            "title": "Fanta Can",
+            "measurement": "300 ml, Can",
+            "price": 40,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jqzitu80/aerated-drink/g/8/5/300-na-can-fanta-original-imafcvvqbgaaqbsa.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucon-D",
+            "title": "Glucon-D Instant Energy Drink",
+            "measurement": "450 g",
+            "price": 136,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jo37onk0/energy-sport-drink-mix/e/7/k/450-tangy-orange-glucon-d-original-imafamhbg4sgftwc.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucon-D",
+            "title": "Glucon-D Regular Energy Drink",
+            "measurement": "50 g Extra in Pack",
+            "price": 90,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jo37onk0/energy-sport-drink-mix/h/v/h/450-regular-glucon-d-original-imafamhbschmnppe.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucon-D",
+            "title": "Glucon-D Energy Drink",
+            "measurement": "450 g",
+            "price": 136,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jo37onk0/energy-sport-drink-mix/a/q/e/450-na-glucon-d-original-imafamhbkfgmmkte.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucon-D",
+            "title": "Glucon-D Regular Instant Energy Drink",
+            "measurement": "50 g Extra in Pack",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jo37onk0/energy-sport-drink-mix/d/q/t/450-instant-energy-original-glucon-d-original-imafamhbube5dkxf.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucon-D",
+            "title": "Glucon-D Instant Energy Energy Drink",
+            "measurement": "1 kg",
+            "price": 153,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k893de80/energy-sport-drink-mix/t/f/c/1-instant-energy-glucon-d-original-imafqb3e8cwfamhh.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucon-D",
+            "title": "Glucon-D Instant Energy Drink",
+            "measurement": "Plastic Bottle Free",
+            "price": 263,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ju1jqfk0/energy-sport-drink-mix/j/7/6/1-instant-energy-glucon-d-original-imaff9zrberyshyg.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucon-D",
+            "title": "Glucon-D Instant Energy Drink",
+            "measurement": "Plastic Bottle Free",
+            "price": 291,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ju1jqfk0/energy-sport-drink-mix/q/z/s/1-instant-glucon-d-original-imaff9zru4kggksp.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Glucose-D",
+            "title": "Glucose-D Vitamin D Plus Calcium Energy Drink",
+            "measurement": "150g Dabur Red Toothpaste Free",
+            "price": 171,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k87nxjk0/energy-sport-drink-mix/g/g/g/1-vitamin-d-plus-calcium-glucose-d-original-imafq9wwzhwqhfwk.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Heineken",
+            "title": "Heineken Alcohol Free Beer Can",
+            "measurement": "330 ml, Can",
+            "price": 52,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k5bcscw0/aerated-drink/f/s/w/330-alcohol-free-beer-can-heineken-original-imafzynffqtynhnm.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Heineken",
+            "title": "Heineken Non Alcohol Beer Can",
+            "measurement": "1980 ml, Can",
+            "price": 405,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7285u80/aerated-drink/v/v/m/1980-0-0-non-alcohol-beer-can-heineken-original-imafpdsfdzmmnph2.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Hoegaarden",
+            "title": "Hoegaarden 0.0 Non Alcoholic Can",
+            "measurement": "330 ml, Can",
+            "price": 70,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k9u8zgw0/aerated-drink/m/m/q/330-0-0-non-alcoholic-can-hoegaarden-original-imafrjsvt6bsemgb.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Kingfisher",
+            "title": "Kingfisher Radler Mint and Lime Flavours Can",
+            "measurement": "300 ml, Can",
+            "price": 40,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jr9iwsw0/aerated-drink/2/d/b/300-radler-mint-and-lime-flavours-can-kingfisher-original-imafd3u2hrg9gpzt.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Kingfisher",
+            "title": "Kingfisher Radler Glass Bottle",
+            "measurement": "300 ml, Glass Bottle",
+            "price": 59,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k9x3v680/aerated-drink/s/d/p/300-radler-ginger-lime-flavour-glass-bottle-kingfisher-original-imafrht45nubcebz.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Kingfisher",
+            "title": "Kingfisher Radler Ginger and Lime Flavours Can",
+            "measurement": "300 ml, Can",
+            "price": 40,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jr83gy80/aerated-drink/f/w/b/300-radler-ginger-and-lime-flavours-can-kingfisher-original-imafd2r5s4ucymzs.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Kingfisher",
+            "title": "Kingfisher Radler Lemon Flavour Can",
+            "measurement": "300 ml, Can",
+            "price": 40,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jqv8ia80/aerated-drink/g/q/k/300-radler-lemon-flavour-can-kingfisher-original-imafcsuyfrmtdzcj.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Maaza",
+            "title": "Maaza Mango",
+            "measurement": "1.5 L",
+            "price": 65,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k4irzbk0/drinks-juice/h/d/a/1-5-mango-plastic-bottle-maaza-original-imafesj3xdnmwmdq.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Mirinda",
+            "title": "Mirinda Plastic Bottle",
+            "measurement": "2 L, Plastic Bottle",
+            "price": 81,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jp2xoy80/aerated-drink/m/e/r/2-na-mirinda-original-imafbethzq6j6gfv.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Mogu Mogu",
+            "title": "Mogu Mogu Lychee Juice with Nata De Coco",
+            "measurement": "300 ml",
+            "price": 51,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k933ma80/drinks-juice/z/n/5/300-lychee-juice-with-nata-de-coco-plastic-bottle-mogu-mogu-original-imafqym5myzxnhyk.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Mogu Mogu",
+            "title": "Mogu Mogu Grape Juice with Nata De Coco",
+            "measurement": "300 ml",
+            "price": 51,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k933ma80/drinks-juice/j/p/u/300-grape-juice-with-nata-de-coco-plastic-bottle-mogu-mogu-original-imafqym5jnmggzba.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Mogu Mogu",
+            "title": "Mogu Mogu Strawberry Juice with Nata De Coco",
+            "measurement": "300 ml",
+            "price": 51,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k933ma80/drinks-juice/c/4/f/300-strawberry-juice-with-nata-de-coco-plastic-bottle-mogu-mogu-original-imafqym5tptwu6hd.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Monster",
+            "title": "Monster Ultra Energy Drink",
+            "measurement": "350 ml",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k3670cw0/energy-sport-drink-mix/k/6/e/350-zero-sugar-ultra-energy-drink-monster-original-imafmcvcxpxdaery.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Monster",
+            "title": "Monster Energy Drink",
+            "measurement": "4x0.35 L",
+            "price": 377,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k37mg7k0/energy-sport-drink-mix/z/v/p/1-4-na-monster-original-imafmec33pfgg9te.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Monster",
+            "title": "Monster Mango Loco Energy Drink",
+            "measurement": "350 ml",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/energy-sport-drink-mix/w/s/a/350-mango-loco-monster-original-imafqf8yfdgnngb9.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Monster",
+            "title": "Monster Energy Drink",
+            "measurement": "350 ml",
+            "price": 99,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jsj90280/energy-sport-drink-mix/f/m/f/350-na-monster-original-imafe36emcehxjzp.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Mountain Dew",
+            "title": "Mountain Dew Can",
+            "measurement": "250 ml, Can",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j5y7gcw0-1/aerated-drink/9/y/z/250-na-mountain-dew-original-imaewj8kvfehgfg5.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Mountain Dew",
+            "title": "Mountain Dew Plastic Bottle",
+            "measurement": "2 L, Plastic Bottle",
+            "price": 76,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jvtujrk0/aerated-drink/c/j/z/2-na-plastic-bottle-mountain-dew-original-imafghffgvun9fbn.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Organic Tattva",
+            "title": "Organic Tattva Wheat Grass Powder Nutrition Drink",
+            "measurement": "100 g",
+            "price": 172,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jhgl5e80/energy-sport-drink-mix/6/5/r/100-organic-wheat-grass-powder-organic-tattava-original-imaf5h4v7htzkcyc.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Nimbu Pani",
+            "measurement": "250 ml",
+            "price": 31,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka2tmkw0/drinks-juice/m/5/p/250-nimbu-pani-pouch-paper-boat-original-imafrq8fxdqcgag3.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Coconut Water",
+            "measurement": "200 ml",
+            "price": 40,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jeiukcw0/drinks-juice/t/4/h/200-coconut-water-tetrapack-paper-boat-original-imaf36tyn6dxvahh.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Jaljeera",
+            "measurement": "200 ml",
+            "price": 24,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/z/g/v/200-jaljeera-tetrapack-paper-boat-original-imafqfyj5ca2gjbf.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Juice - Santra",
+            "measurement": "200 ml",
+            "price": 28,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/d/a/h/200-juice-santra-tetrapack-paper-boat-original-imafqfyjfhhhjhfk.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Paper Boat",
+            "title": "Paper Boat Lychee Ras",
+            "measurement": "200 ml",
+            "price": 28,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7w8eq80/drinks-juice/d/5/3/200-lychee-ras-tetrapack-paper-boat-original-imafqfyjzcudbzyv.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Pepsi",
+            "title": "Pepsi Can",
+            "measurement": "250 ml, Can",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jxdkpzk0/aerated-drink/b/f/a/250-na-can-pepsi-original-imafhumjnrtzfgfp.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Pepsi",
+            "title": "Pepsi Black Can",
+            "measurement": "750 ml, Can",
+            "price": 75,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jzu60sw0/aerated-drink/3/6/z/750-black-can-pepsi-original-imafjrwdzepqp3v2.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Pepsi",
+            "title": "Pepsi Plastic Bottle",
+            "measurement": "750 ml, Plastic Bottle",
+            "price": 36,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jgzfv680/aerated-drink/h/m/p/750-na-plastic-bottle-pepsi-original-imaf53n7wc6z6zdf.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Protinex",
+            "title": "Protinex ORGINAL Nutrition Drink",
+            "measurement": "250 g",
+            "price": 345,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k6fd47k0/milk-drink-mix/s/f/u/400-original-tin-protinex-original-imafzvvqg2bxhvd6.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Protinex",
+            "title": "Protinex Mama Nutrition Drink",
+            "measurement": "250 g",
+            "price": 397,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jlo1tow0/energy-sport-drink-mix/y/y/3/250-mama-protinex-original-imaf4aubtcxhz5y8.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Instant Orange",
+            "measurement": "750 g",
+            "price": 149,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k9itgnk0/concentrate/w/y/q/instant-orange-rasna-original-imafranyxassdkse.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Alphonso Mango (32 Glasses)",
+            "measurement": "25 ml, 20 g",
+            "price": 42,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jjolt3k0/concentrate/k/7/a/alphonso-mango-32-glasses-rasna-original-imaf772jbb95anjr.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Nagpur Orange (32 Glasses)",
+            "measurement": "25 ml, 20 g",
+            "price": 42,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jnw2he80/concentrate/e/4/h/nagpur-orange-32-glasses-rasna-original-imafagwk6hfyybad.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Chatpata Masala Orange (32 Glasses)",
+            "measurement": "25 ml, 30 g",
+            "price": 42,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jjolt3k0/concentrate/y/x/e/chatpata-masala-orange-32-glasses-rasna-original-imaf772hdy5xyvfk.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Instant Nimbupani",
+            "measurement": "750 g",
+            "price": 149,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7f34i80/concentrate/z/m/8/instant-lemon-rasna-original-imafpnz8yp2ygk6g.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna American Pineapple (32 Glasses)",
+            "measurement": "25 ml, 20 g",
+            "price": 42,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jjolt3k0/concentrate/n/d/g/american-pineapple-32-glasses-rasna-original-imaf772mcze7yfc6.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Insta Combo Pack",
+            "measurement": "Sipper Free",
+            "price": 128,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jv6zi4w0/concentrate/y/w/g/insta-combo-pack-rasna-original-imafg5ajknk3avgy.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Instant Pineapple",
+            "measurement": "500 g",
+            "price": 120,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jiw10280/concentrate/q/h/4/500-insta-pineapple-rasna-original-imaf6h6ghmg3yguh.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Rasna",
+            "title": "Rasna Instant Mango",
+            "measurement": "750 g",
+            "price": 149,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k9itgnk0/concentrate/h/y/z/instant-mango-rasna-original-imafranysjmrcrge.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Coconut Water",
+            "measurement": "Buy 4 or more units save 31%",
+            "price": 54,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k3q76a80/drinks-juice/p/g/3/200-coconut-water-plastic-bottle-raw-pressery-original-imafmsg4ced5gdvh.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Raw Pressery",
+            "title": "Raw Pressery Mango Plus Sugarcane",
+            "measurement": "200 ml",
+            "price": 60,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k9x3v680/drinks-juice/h/k/q/200-mango-100-natural-cold-pressed-juice-plastic-bottle-raw-original-imafrht4zt3kdhh8.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Samuride",
+            "title": "Samuride Energy Drink",
+            "measurement": "250 ml",
+            "price": 49,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jsj90280/energy-sport-drink-mix/u/k/n/250-na-samuride-original-imafe3e5ygggdfhn.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Sprite",
+            "title": "Sprite Plastic Bottle",
+            "measurement": "2 L, Plastic Bottle",
+            "price": 81,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jo62kcw0/aerated-drink/9/g/m/2-na-plastic-bottle-sprite-original-imafazvy5yrzsksg.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Sprite",
+            "title": "Sprite Can",
+            "measurement": "300 ml, Can",
+            "price": 35,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k9re3rk0/aerated-drink/x/x/h/300-na-can-sprite-original-imafrha29ef8zrkj.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Sprite",
+            "title": "Sprite Juicy Plus Plastic Bottle",
+            "measurement": "600 ml, Plastic Bottle",
+            "price": 40,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jwtkk280/aerated-drink/g/y/z/600-juicy-plus-plastic-bottle-sprite-original-imafhetgbsukw4yu.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Storia",
+            "title": "Storia Pomogranate Masala Drinks",
+            "measurement": "180 ml",
+            "price": 25,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/b/7/b/180-pomogranate-masala-drinks-glass-bottle-storia-original-imafrsm3fhuvjyyk.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Storia",
+            "title": "Storia Guava Chili Drinks",
+            "measurement": "180 ml",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/s/t/t/180-guava-chili-drinks-glass-bottle-storia-original-imafrseeyzu2dzus.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Storia",
+            "title": "Storia Pineapple Masala Drinks",
+            "measurement": "180 ml",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/4/g/p/180-pineapple-masala-drinks-glass-bottle-storia-original-imafrsm3chhfdsz2.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Storia",
+            "title": "Storia Green Mango Masala Drinks",
+            "measurement": "180 ml",
+            "price": 22,
+            "image": "https://rukminim1.flixcart.com/image/280/280/ka5oia80/drinks-juice/z/r/f/180-green-mango-masala-drinks-glass-bottle-storia-original-imafrseeq3sy3vny.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Tang",
+            "title": "Tang Orange Instant Drink Mix",
+            "measurement": "750 g",
+            "price": 178,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k84t1u80/concentrate/q/e/x/orange-instant-drink-mix-tang-original-imafq7r8ar2duvh5.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Tang",
+            "title": "Tang Lemon Instant Drink Mix",
+            "measurement": "500 g",
+            "price": 128,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k84t1u80/concentrate/p/z/k/lemon-instant-drink-mix-tang-original-imafq7r8fjnawrhz.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Tang",
+            "title": "Tang Mango Instant Drink Mix",
+            "measurement": "500 g",
+            "price": 128,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k7z3afk0/concentrate/k/d/m/mango-instant-drink-mix-tang-original-imafq3baat2hpys4.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Thums Up",
+            "title": "Thums Up Plastic Bottle",
+            "measurement": "1.75 L, Plastic Bottle",
+            "price": 72,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jqzitu80/aerated-drink/p/c/t/1-75-na-plastic-bottle-thums-up-original-imafcvvqby3fywdg.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Thums Up",
+            "title": "Thums Up Can",
+            "measurement": "300 ml, Can",
+            "price": 35,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jqzitu80/aerated-drink/m/4/b/300-na-can-thums-up-original-imafcvvqmgkh5et8.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Tropicana",
+            "title": "Tropicana Mixed Fruit Delight",
+            "measurement": "1 L",
+            "price": 77,
+            "image": "https://rukminim1.flixcart.com/image/280/280/jsaocy80/drinks-juice/s/b/p/1-mixed-fruit-delight-tetrapack-tropicana-original-imaf3d9qhbsq4paq.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Tropicana",
+            "title": "Tropicana Slice Mango Juice",
+            "measurement": "1.2 L",
+            "price": 64,
+            "image": "https://rukminim1.flixcart.com/image/280/280/j6nxdow0/drinks-juice/z/p/8/1200-slice-mango-juice-tetrapack-tropicana-original-imaex34z5naqqjx6.jpeg?q=70"
+        },
+        {
+            "id": 1190,
+            "brand": "Tropicana",
+            "title": "Tropicana Guava Delight",
+            "measurement": "1 L",
+            "price": 75,
+            "image": "https://rukminim1.flixcart.com/image/280/280/k84t1u80/drinks-juice/z/g/z/1-guava-delight-plastic-bottle-tropicana-original-imafq7nzszbfynjt.jpeg?q=70"
+        }
+    ]
+}
